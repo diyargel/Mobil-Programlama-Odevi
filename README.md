@@ -15,6 +15,10 @@ _
 Proje basit bir takvim uygulamasıdır istenilen güne aktivite eklenilebilinir ve ya rastgele aktiviteler eklenebilir
 
 __
+ Projede npm install ionic2-calendar ve
+ ionic g page pages/calModal
+ komutları kullanılmıştır.
+ __
  Kaynak olarak;
 UI Components-https://github.com/twinssbc/Ionic2-Calendar
 Uğur Yıldız-Mobil Programlama ders notları
