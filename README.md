@@ -20,6 +20,8 @@ Program çalıştırıldığında karşınıza gelmesi gereken ilk görsel bu ol
 Sağ üstteki artı işaretine basıldığında İstediğiniz bir güne etkinlik ekleyebilirsiniz.
 ![image](https://user-images.githubusercontent.com/44711757/105171448-4a1df580-5b2f-11eb-95f0-5ffd35093c24.png)
 Eklediğiniz etkinlik şekildeki gibi gözükmektedir.
+![image](https://user-images.githubusercontent.com/44711757/105171745-a3862480-5b2f-11eb-8d48-9c3acf1ec459.png)
+Ve istenilirse rastgele bir şekilde etkinlik eklenilebilinir
 ______________________________________________________________________________________________________________________
  Projede npm install ionic2-calendar ve
  ionic g page pages/calModal
