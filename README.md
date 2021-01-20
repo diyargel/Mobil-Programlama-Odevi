@@ -14,6 +14,7 @@ _
 
 Proje basit bir takvim uygulamasıdır istenilen güne aktivite eklenilebilinir ve ya rastgele aktiviteler eklenebilir
 
+![image](https://user-images.githubusercontent.com/44711757/105169455-9ca9e280-5b2c-11eb-8260-7a7bbb2371be.png)
 __
  Projede npm install ionic2-calendar ve
  ionic g page pages/calModal
