@@ -16,7 +16,10 @@ Proje basit bir takvim uygulamasıdır istenilen güne aktivite eklenilebilinir 
 
 ![image](https://user-images.githubusercontent.com/44711757/105169455-9ca9e280-5b2c-11eb-8260-7a7bbb2371be.png)
 Program çalıştırıldığında karşınıza gelmesi gereken ilk görsel bu olmalı 
-
+![image](https://user-images.githubusercontent.com/44711757/105171128-f01d3000-5b2e-11eb-812c-7204def206ee.png)
+Sağ üstteki artı işaretine basıldığında İstediğiniz bir güne etkinlik ekleyebilirsiniz.
+![image](https://user-images.githubusercontent.com/44711757/105171448-4a1df580-5b2f-11eb-95f0-5ffd35093c24.png)
+Eklediğiniz etkinlik şekildeki gibi gözükmektedir.
 ______________________________________________________________________________________________________________________
  Projede npm install ionic2-calendar ve
  ionic g page pages/calModal
